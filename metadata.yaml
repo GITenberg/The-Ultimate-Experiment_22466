@@ -1,0 +1,27 @@
+_repo: The-Ultimate-Experiment_22466
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: DeKy, Thornton
+    gutenberg_agent_id: '25339'
+    url: http://www.gutenberg.org/2009/agents/25339
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Robots -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The Ultimate Experiment
+url: http://www.gutenberg.org/ebooks/22466
